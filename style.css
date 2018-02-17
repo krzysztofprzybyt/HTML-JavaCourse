@@ -1,0 +1,18 @@
+body {
+   background-color: grey;
+}
+
+h1 {
+   text-align: center;
+   color: red;
+}
+h1:hover {
+   text-align: center;
+   color: blue;
+   font-size: 54px;
+}
+p {
+	font-size: 24px;
+	color: yellow;
+	font-weight: bolder;
+}
